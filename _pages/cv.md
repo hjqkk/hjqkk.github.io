@@ -32,12 +32,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*英语水平
+  * CET-4(521)
+*编程语言
+  *C/C++
+  *Python
+  *Java
+  *熟练使用Linux、Git常用命令
 
 Publications
 ======
