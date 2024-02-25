@@ -33,7 +33,7 @@ Work experience
 Skills
 ======
 *英语水平
-  * CET-4(521)
+  *CET-4(521)
 *编程语言
   *C/C++
   *Python
