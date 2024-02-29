@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China Mainland"
-title                    : "Your Name / Site Title"
+title                    : "hjq / Site Title"
 title_separator          : "-"
 name                     : &name "黄靖琦"
 description              : &description "personal description"
