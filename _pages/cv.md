@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, Shaoguang University, 2024 (expected)
+* B.S. in Computer Science and Technology, Shaoguang University, 2024 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2024: Spring-based flower system
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
