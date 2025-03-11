@@ -39,7 +39,7 @@ Skills
   * *Proficient in using common commands of Linux and Git
 * Proficient in prototyping with Axure software and Blue Lake plug-ins
 
-Publications
+Certificates
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
