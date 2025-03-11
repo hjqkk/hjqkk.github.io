@@ -17,8 +17,8 @@ Work experience
 ======
 * Spring 2024: Spring-based flower system
   * Project Introduction : The system enables a convenient flower ordering service app, compatible with WeChat mini-programs and web pages, through which users can browse nearby florists, view products, place orders and pay for orders, and track the status of orders.
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Technical aspects : The sales of flower products and the management of users include the management side and the user side, the backend is built using Java language and Spring framework, the front-end project is run based on nginx, and the database uses MD5 encryption to encrypt the plaintext password in order to ensure the security of the user.
+  * Achieve results : It improves the convenience and efficiency of the user experience, and supports self-pickup and takeaway delivery options to meet the needs of different users.
 
 * Fall 2015: Research Assistant
   * Github University
