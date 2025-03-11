@@ -31,13 +31,13 @@ Work experience
   
 Skills
 ======
-* 英语水平CET-4(521)
-* 编程语言
+* English proficiencyCET-4(521)
+* programming language
   * C/C++
   * Python
   * Java
-  * *熟练使用Linux、Git常用命令
-* 熟练使用Axure软件、蓝湖插件进行原型设计
+  * *Proficient in using common commands of Linux and Git
+* Proficient in prototyping with Axure software and Blue Lake plug-ins
 
 Publications
 ======
