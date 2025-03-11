@@ -20,15 +20,14 @@ Work experience
   * Technical aspects : The sales of flower products and the management of users include the management side and the user side, the backend is built using Java language and Spring framework, the front-end project is run based on nginx, and the database uses MD5 encryption to encrypt the plaintext password in order to ensure the security of the user.
   * Achieve results : It improves the convenience and efficiency of the user experience, and supports self-pickup and takeaway delivery options to meet the needs of different users.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Design mini-game based on Unity3D
+  * Project Introduction : The project uses the C# language to implement a shooting game from a third-person perspective, the game characters are divided into the protagonist and NPC players (three forms), the protagonist can follow the mouse or keyboard buttons to move, by triggering the key keys to achieve the protagonist's shooting animation and have damage value for the player who hits the NPC, and the protagonist will also appear in three forms (full health, injury, death) with the increase of the NPC player's damage value
+  * Responsible work : Character and scene design, requirements review and requirements document writing, player operation design, NPC interaction and appearance animation trigger design, functional framework design
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2021: Python web crawler
+  * Project Introduction : The project enables a quick retrieval of a user's microblog posts over a period of time and appropriate measures to circumvent the restrictions
+  * Project process : Analyze the structure of the target page, determine the scope of data to be captured, filter unwanted information, parse HTML documents, set functions to extract the required data, store it in the database, and visualize the output display.
+  * Achieve results : Crawl the user's non-private information and output valid information
   
 Skills
 ======
