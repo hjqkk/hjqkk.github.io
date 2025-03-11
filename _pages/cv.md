@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * Spring 2024: Spring-based flower system
-  * Github University
+  * Project Introduction : The system enables a convenient flower ordering service app, compatible with WeChat mini-programs and web pages, through which users can browse nearby florists, view products, place orders and pay for orders, and track the status of orders.
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
